@@ -1,0 +1,31 @@
+=======================================
+
+Class: CMPS 112 Fall 2017
+Professor: Wesley Mackey 
+Student Name: Sharad Shrestha
+Student ID: 1439935 (sshrest3)
+Student Email: sshrest3@ucsc.edu
+
+=======================================
+
+Assignment 2:  
+--> desk calculator (OCaml)
+
+=======================================
+
+File Name: 
+--> Makefile
+--> bigint.ml
+--> bigint.mli
+--> maindc.ml
+--> scanner.mll
+
+=======================================
+
+Description:
+--> Program will read the single file 
+    (if specified) as does dc and then read stdin.
+--> Implements the following 
+    dc functions : +-*/%^cdflps. 
+    
+=======================================

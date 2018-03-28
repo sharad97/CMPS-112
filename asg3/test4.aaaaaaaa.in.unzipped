@@ -1,0 +1,7 @@
+Object: 9 error: did not understand #less
+MessageNotUnderstood(Exception)>>signal (ExcHandling.st:254)
+SmallInteger(Object)>>doesNotUnderstand: #less (SysExcept.st:1448)
+BitStream>>nextBit (hzip.st:211)
+optimized [] in UndefinedObject>>executeStatements (hzip.st:326)
+True>>ifTrue: (True.st:64)
+UndefinedObject>>executeStatements (hzip.st:311)

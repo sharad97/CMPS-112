@@ -1,0 +1,39 @@
+============================================================================
+
+Class: CMPS 112 Fall 2017
+Professor: Wesley Mackey 
+Student Name: Sharad Shrestha
+Student ID: 1439935 (sshrest3)
+Student Email: sshrest3@ucsc.edu
+
+=============================================================================
+
+Assignment 1: 
+--> A Silly Basic Interpreter (Scheme)
+
+=============================================================================
+
+File Name: 
+--> sbi.scm
+
+=============================================================================
+
+Synopsis: 
+--> sbi.scm filename
+
+=============================================================================
+
+Description:
+--> The interpreter reads SBIR program from the file and stores it in a list. 
+--> After that it will interprets the list. 
+--> Results are output to stdout.
+--> Error are printed to the stderr which causes message to be printed and 
+    program to extit with an exit code of 1.
+    
+==============================================================================
+
+Exit Status:
+--> 1 exit
+--> 0 successful
+
+==============================================================================
